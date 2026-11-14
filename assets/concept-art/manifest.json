@@ -1,0 +1,121 @@
+[
+  {
+    "path": "assets/concept-art/environments/trenches/trench-network-01.png",
+    "source": "mapa_de_trincheiras_da_grande_guerra.png",
+    "description": "Trincheiras conectadas: combate central e passagens",
+    "sha256": "371c4f08b938ee0a00df7ac7a88ffb60b3699f044ebb69e90a5bf536271ea3dd",
+    "status": "exploratory"
+  },
+  {
+    "path": "assets/concept-art/environments/trenches/trench-hq-02.png",
+    "source": "mapa_de_trincheiras_da_primeira_guerra.png",
+    "description": "Posto de comando entre trincheiras",
+    "sha256": "dd7e20c5c84b622ac6ae46f4174d12c110836a53e6def58a01a28d256f195ce8",
+    "status": "exploratory"
+  },
+  {
+    "path": "assets/concept-art/environments/trenches/no-mans-land-03.png",
+    "source": "mapa_tático_das_trincheiras_da_primeira_guerra_mun.png",
+    "description": "Terra de ninguem: crateras e combate",
+    "sha256": "220de4e642c6c5e37cb9ec750559b36a914bc7ed2933b302582c3273ff8c1b92",
+    "status": "exploratory"
+  },
+  {
+    "path": "assets/concept-art/environments/trenches/artillery-sector-04.png",
+    "source": "mapa_de_batalha_em_trincheiras_pixeladas.png",
+    "description": "Setor de artilharia em trincheiras",
+    "sha256": "f22461b0c1fa73f2afa36de2f67911c1dbd4121383795cda19ff46e292eb280f",
+    "status": "exploratory"
+  },
+  {
+    "path": "assets/concept-art/environments/headquarters/trench-command-01.png",
+    "source": "quartel_general_nas_trincheiras_da_grande_guerra.png",
+    "description": "QG conectado a trincheiras",
+    "sha256": "8c60659b991f2e61ac13190f3a71ec96a6695b3bbe9803abdfbbda69ec2f4d4e",
+    "status": "exploratory"
+  },
+  {
+    "path": "assets/concept-art/environments/headquarters/underground-complex-01.png",
+    "source": "quartel_subterrâneo_em_pixel_art.png",
+    "description": "Complexo subterraneo iluminado",
+    "sha256": "34a8f48559663f542ef89e9097f65dda9a012066b83500f15f3b9e5c8f53228f",
+    "status": "exploratory"
+  },
+  {
+    "path": "assets/concept-art/environments/headquarters/underground-surface-cutaway-02.png",
+    "source": "mapa_de_trincheiras_da_primeira_guerra_mundial.png",
+    "description": "QG em corte misto: superficie e subsolo",
+    "sha256": "6d45f5650da756b9415abff560d5931482695d2b20f10177e3b071ac248b5cb7",
+    "status": "exploratory"
+  },
+  {
+    "path": "assets/concept-art/environments/headquarters/deep-bunker-01.png",
+    "source": "bunker_subterrâneo_em_pixel_art.png",
+    "description": "Bunker profundo com entorno escuro",
+    "sha256": "f4d73bea3b5760860dd21cb591f3293baab5b9489d5231a3cd2b27e91d45ffb6",
+    "status": "exploratory"
+  },
+  {
+    "path": "assets/concept-art/environments/headquarters/deep-bunker-03.png",
+    "source": "mapa_pixelado_de_bunker_subterrâneo.png",
+    "description": "QG de profundidade com tuneis",
+    "sha256": "c379c5bbec29f3f61a3761822e68a9ff0012f6c5c6b46891db5625736672eccf",
+    "status": "exploratory"
+  },
+  {
+    "path": "assets/concept-art/environments/headquarters/enemy-hq-01.png",
+    "source": "quartel_general_subterrâneo_em_pixel_art.png",
+    "description": "QG inimigo interno: complexo fortificado",
+    "sha256": "b0bb3c96e27765e9b84072c6d14f59fc232e038e997456e3077c80c6ac27d1d0",
+    "status": "exploratory"
+  },
+  {
+    "path": "assets/concept-art/environments/forest/sunny-camp-01.png",
+    "source": "acampamento_militar_na_floresta_ensolarada.png",
+    "description": "Acampamento florestal ensolarado",
+    "sha256": "8e939684de43140f8fea40dd460c1785ed7aee53d13ea0ff3a9f262e4fbf2cdd",
+    "status": "exploratory"
+  },
+  {
+    "path": "assets/concept-art/environments/forest/sunny-camp-02.png",
+    "source": "acampamento_militar_em_floresta_wwii.png",
+    "description": "Acampamento com postos e clareira",
+    "sha256": "6e72a543bb26f2022a2fd19a1fc88d89cc3c4ace922fbd7a096302fb7cc7d2c6",
+    "status": "exploratory"
+  },
+  {
+    "path": "assets/concept-art/environments/forest/sunny-camp-03.png",
+    "source": "acampamento_militar_na_floresta.png",
+    "description": "Clareira e riacho na floresta",
+    "sha256": "0c6d35fd5d7e23e225973646433792ce8946353e67a0d58e5cebd0925eedbb0f",
+    "status": "exploratory"
+  },
+  {
+    "path": "assets/concept-art/environments/forest/night-camp-01.png",
+    "source": "acampamento_militar_sob_a_lua_cheia.png",
+    "description": "Acampamento noturno ao luar",
+    "sha256": "bd369377eac0572c2c5953532e36c0b9b1e45971d1c0ad7473f25d00167212f8",
+    "status": "exploratory"
+  },
+  {
+    "path": "assets/concept-art/environments/snow/snow-battlefield-01.png",
+    "source": "campo_de_batalha_invernal_em_pixel_art.png",
+    "description": "Campo de neve com fortificacoes",
+    "sha256": "bfe9c3dc8711cf61a5d95aea9ccef06d27b313faee5c68bbc7763b1561bad97a",
+    "status": "exploratory"
+  },
+  {
+    "path": "assets/concept-art/environments/snow/winter-camp-01.png",
+    "source": "acampamento_militar_na_neve.png",
+    "description": "Acampamento militar de inverno",
+    "sha256": "6572a456f2e7ddff111493816b67c583c572e1e99424080f90811ace7ab8437a",
+    "status": "exploratory"
+  },
+  {
+    "path": "assets/concept-art/environments/snow/frozen-river-01.png",
+    "source": "campo_de_batalha_congelado_em_pixel_art.png",
+    "description": "Campo de batalha com rio congelado",
+    "sha256": "210a731c242eb51be77099e4bd6e6a74564166be5542e5ab808a4714ffbd361e",
+    "status": "exploratory"
+  }
+]
