@@ -1,9 +1,11 @@
 # Briefs de concept art
 
-**Status:** briefs textuais para revisão; nenhuma imagem ou sprite foi produzida  
+**Status:** briefs textuais para revisão; concept arts exploratórias geradas no ChatGPT (importação binária ao repositório pendente); nenhum sprite final foi produzido  
 **Escopo:** direção visual comum e quatro grupos de briefs do conteúdo selecionado para o MVP.
 
 O [GDD](../GDD.md) define as regras e o [plano do MVP](../MVP_IMPLEMENTATION.md) organiza os marcos. Estes briefs traduzem as decisões visuais em material acionável para futura exploração de arte; não substituem nem encerram a revisão do GDD.
+
+Consulte também [Organização de assets e sincronização ChatGPT/Codex](ASSET_ORGANIZATION.md) para a taxonomia das imagens e sua separação dos assets finais.
 
 ## Direção visual compartilhada
 
